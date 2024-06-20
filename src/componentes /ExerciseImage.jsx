@@ -3,7 +3,7 @@ import './ExerciseImage.css';
 import image1 from "../assets/puxada.png";
 import image2 from '../assets/remada.png';
 import image3 from '../assets/remadauni.png';
-import image4 from '../assets/levantamiento.png';
+import image4 from '../assets/terra.png';
 
 export const Image1 = image1;
 export const Image2 = image2;
@@ -30,6 +30,7 @@ const ExerciseImage = ({ ejercicio }) => {
     </div>
   );
 };
+
 
 export { images };
 
