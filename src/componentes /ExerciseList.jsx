@@ -26,6 +26,7 @@ function ExerciseList() {
     }
   ];
 
+  
   return (
     <div className="exercise-list">
       {exercises.map((exercise, index) => (
