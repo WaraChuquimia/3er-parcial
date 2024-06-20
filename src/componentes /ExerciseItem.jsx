@@ -9,6 +9,7 @@ function ExerciseItem({ title, details, image }) {
         <ExerciseImage ejercicio={image} />
         <div className="exercise-details">
           <h2>{title}</h2>
+          
           <p>{details}</p>
         </div>
       </div>
