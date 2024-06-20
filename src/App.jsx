@@ -7,7 +7,7 @@ function App() {
     <div className="root">
       <div className="alineacion">
         <div className="alitext">
-          <div className="textitou">Ejercicios</div>
+          <div className="textitou">Exercicios</div>
         <div className="textitoo">4</div>
         </div>
       

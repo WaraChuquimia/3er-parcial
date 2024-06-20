@@ -6,6 +6,7 @@ const ExerciseTitle = ({ title }) => {
     <div className="exercise-title">
       {title}
     </div>
+    
   );
 };
 
