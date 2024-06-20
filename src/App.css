@@ -1,0 +1,22 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+.textitou{
+  font-size: 25px;
+  font-weight: bold;
+  font-family: "Roboto";
+  margin-bottom: 10px;
+}
+.textitoo{
+  font-size: 25px;
+  font-weight: bold;
+  font-family: "Roboto";
+  margin-bottom: 10px;
+}
+.alitext{
+  display: flex;
+  justify-content: space-between;
+}
+
+
